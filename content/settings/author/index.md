@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Anne Florence"
-image = "/media/eovq8466.jpg"
+image = "/media/jtwe3677.jpg"
 url = "/about/"
 +++
